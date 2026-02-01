@@ -48,8 +48,8 @@ mov [3001H],AX
 HLT
 ```
 ## Output  
+<img width="1434" height="1055" alt="image" src="https://github.com/user-attachments/assets/1438da66-3f5d-46c7-9e1b-5e57a966e181" />
 
-![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/add.png)
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
