@@ -73,8 +73,8 @@ mov [3007H],DX
 HLT
 ```
 ## Output  
+<img width="1600" height="920" alt="image" src="https://github.com/user-attachments/assets/79663177-8d61-4470-afed-fe1333beee71" />
 
- ![IMG](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/mul.png)
  
 ## Division alp 
 ```
