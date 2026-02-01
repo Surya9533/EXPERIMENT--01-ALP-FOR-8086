@@ -124,6 +124,17 @@ HLT
 
 ![img](https://github.com/Girithickrohan/EXPERIMENT--01-ALP-FOR-8086/blob/main/not.png)
 
+## XOR of 8 bit number ALP
+```
+MOV AX,5782H
+MOV BX,23ABH
+XOR AX,BX
+HLT
+```
+## Output
+<img width="1638" height="873" alt="image" src="https://github.com/user-attachments/assets/e10df182-deac-49f1-b003-0a63507e6475" />
+
+
 
 
 ## Result :
