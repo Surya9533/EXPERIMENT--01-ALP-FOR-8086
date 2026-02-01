@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
 
-Name : SURYA E
+Name : SURYA R
 
 Roll no : 212224040339
 
